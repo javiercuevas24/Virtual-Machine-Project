@@ -1,7 +1,7 @@
 <h1>Virtual Machine (VM) </h1>
 
 <h2>Description</h2>
-Project consists of installing and setting up the Oracle VirtualBox virtual machine, and to make it run Kali Linux.
+This project consists of installing and setting up the Oracle VirtualBox virtual machine to make it run Kali Linux on my windows 11 PC.
 <br />
 
 
